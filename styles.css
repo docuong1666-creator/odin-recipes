@@ -1,0 +1,21 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing:inherit;
+}
+
+body {
+    background-color: rgb(245,230,220);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align:center;
+}
+
+li {
+    font-size: 20px;
+    padding: 20px;
+}
